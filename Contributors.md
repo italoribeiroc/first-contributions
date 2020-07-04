@@ -2447,3 +2447,4 @@ amin-da
 - [Marcio Rocha] (https://github.com/marciojunior88)
 - [Bhavesh Vaghela] (https://github.com/vaghelabhavesh)
 - [Konstantin Grigorev] (https://github.com/konstantingrigorev)
+- [Italo Carvalho Vianelli Ribeiro] (https://github.com/italoribeiroc)
